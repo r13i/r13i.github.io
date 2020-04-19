@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: Backend Engineering (Python, NodeJS)
   percentage: 90
   color: danger
 
-- name: Go
+- name: Data Science
   percentage: 80
   color:
 
-- name: Python
+- name: SQL Programming
   percentage: 70
   color: dark
