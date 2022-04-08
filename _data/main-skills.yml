@@ -1,11 +1,19 @@
-- name: Backend Engineering (Node.js, Python, Scala)
+- name: Software Development (Typescript, Javascript, Python)
   percentage: 90
   color: danger
 
-- name: Data Science
+- name: DevOps (AWS, GCP)
   percentage: 80
+  color: warning
+
+- name: Front-end (React)
+  percentage: 70
   color:
 
 - name: SQL Programming
-  percentage: 70
+  percentage: 60
   color: dark
+
+- name: Data Science
+  percentage: 50
+  color: success

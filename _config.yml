@@ -2,9 +2,10 @@
 url                 : "www.redouaneachouri.com"
 title               : Redouane Achouri
 description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces,
-                      and I never broke production."
+                      "Curious about engineering and tech,
+                      I build projects based on my inspirations
+                      and needs around #webapps #devops
+                      #dataengineering #datascience #iot."
 baseurl             : ""
 repository          : redouane-dev/redouane-dev.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU

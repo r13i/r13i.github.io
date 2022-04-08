@@ -1,11 +1,11 @@
-- name: Docker Ecosystem
-  percentage: 90
-  color: info
-
-- name: Google Cloud Platform
+- name: Technical writing
   percentage: 80
+  color: 
+
+- name: Public speaking (Improvisation Theater, Klarna Konnect Speaker Program)
+  percentage: 70
   color: success
 
-- name: Network and Infrastructure
-  percentage: 70
-  color: warning
+- name: Brazilian Jiu-jitsu
+  percentage: 20
+  color: info
