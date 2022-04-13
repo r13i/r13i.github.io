@@ -68,4 +68,5 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
+  - "Gemfile*"
   - "*.log"
