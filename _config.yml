@@ -21,9 +21,9 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:
+  - pages/index.md
   - pages/tags.html
   - pages/404.html
-  - pages/index.md
 
 
 ### Author Info ###
@@ -54,6 +54,13 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+
+
+### Analytics ###
+analytics:
+  enabled: true
+  google:
+    tracking_id: G-Q3LBNQD0DY
 
 
 ### Exclude from processing ###
