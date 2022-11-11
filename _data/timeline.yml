@@ -1,6 +1,11 @@
+- title: DevOps Consultant, Mirado Consulting
+  from: Sep, 2022
+  to: Present
+  description: Helping teams with infrastructure and DevOps (Kubernetes, Terraform, AWS, CI/CD).
+
 - title: DevOps Engineer, Klarna
   from: Dec, 2020
-  to: present
+  to: Aug, 2022
   description: Management of the main container runtime platform on top of AWS.
 
 - title: Software Engineer, ValueChecker.net, alaTest.com
