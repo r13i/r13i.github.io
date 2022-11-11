@@ -1,19 +1,27 @@
-- name: Software Development (Typescript, Javascript, Python)
+- name: DevOps (AWS, GCP)
   percentage: 90
+  color: secondary
+
+- name: Software Development (Typescript, Javascript, Python)
+  percentage: 80
   color: danger
 
-- name: DevOps (AWS, GCP)
+- name: Cloud (AWS, GCP)
   percentage: 80
   color: warning
 
-- name: Front-end (React)
-  percentage: 70
-  color:
+- name: Kubernetes
+  percentage: 80
+  color: primary
+
+- name: Terraform (AWS, GCP)
+  percentage: 80
+  color: info
 
 - name: SQL Programming
   percentage: 60
   color: dark
 
-- name: Data Science
+- name: Front-end (React)
   percentage: 50
-  color: success
+  color:
