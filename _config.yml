@@ -2,10 +2,13 @@
 url                 : "www.redouaneachouri.com"
 title               : Redouane Achouri
 description         : >-
-                      "Curious about engineering and tech,
+                      Consultant in DevOps and Backend Engineering. Technical writer.
+                      <br />
+                      <br />
+                      Curious about engineering and tech,
                       I build projects based on my inspirations
                       and needs around #webapps #devops
-                      #dataengineering #datascience #iot."
+                      #dataengineering #datascience #iot.
 baseurl             : ""
 repository          : redouane-dev/redouane-dev.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
