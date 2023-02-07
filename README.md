@@ -7,8 +7,10 @@
 Make sure you have [Jekyll installed](https://jekyllrb.com/docs/), then run:
 
 ```bash
+# Install dependencies
 bundle install
 
+# Start local server
 bundle exec jekyll serve --livereload
 ```
 
