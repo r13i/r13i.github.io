@@ -10,7 +10,7 @@ description         : >-
                       and needs around #webapps #devops
                       #dataengineering #datascience #iot.
 baseurl             : ""
-repository          : redouane-dev/redouane-dev.github.io
+repository          : r13i/r13i.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -34,7 +34,7 @@ author:
   name              : Redouane Achouri
   image             : ./assets/images/profile.jpg
   email             : redouane.a.achouri@gmail.com
-  github            : redouane-dev
+  github            : r13i
   linkedin          : redouane-achouri
   twitter           : redouaneoachour
   medium            : redouane.achouri
